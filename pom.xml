@@ -6,7 +6,7 @@
 
 	<groupId>org.subra.aem</groupId>
 	<artifactId>subra-aem-configs</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<packaging>content-package</packaging>
 	<name>Subra Common Configs</name>
 	<description>UI apps package for Subra</description>
